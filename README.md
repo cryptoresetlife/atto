@@ -1,7 +1,7 @@
 # atto
 ## [打开矿池网站]https://pool.rplant.xyz/#rincoin
 
-* 1 点击创建钱包
+* 1 点击下载钱包
   
 ![image](https://github.com/user-attachments/assets/16576d09-e539-4cc5-b192-da2ced0b5321)
 
